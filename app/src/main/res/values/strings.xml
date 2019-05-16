@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CO Checkin QR Scanner</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="submit">submit</string>
+</resources>
